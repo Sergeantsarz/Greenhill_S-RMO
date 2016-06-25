@@ -1,0 +1,27 @@
+/* Sarah R. Greenhill - RMO Portfolio - June 25, 2016 */
+
+
+/* Main */ 
+
+#main{
+	text-align: center;
+	font-family: 'Play', Helvetica, sans-serif;
+}
+
+/* Headings */
+
+#main h1{
+	font-family: 'Indie Flower', Helvetica, sans-serif;
+	color: #000000;
+	font-size: 8em;
+	margin: .3em 0 0 0;
+}
+
+#main h2{
+	color: #8c0258;
+}
+
+#main h3{
+	font-family: 'Indie Flower', Helvetica, sans-serif;
+}
+
